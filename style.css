@@ -1,0 +1,14 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::after, *::before {
+    box-sizing: inherit;
+}
+
+.container {
+    width: 40vw;
+    height: 40vw;
+    border: 2px solid #222;
+    margin: 0 auto;
+}
